@@ -1,5 +1,5 @@
-domain: zingfind.github.io
-baseurl: /agency-jekyll-theme/
+url: netlify.app
+baseurl: /_site
 
 # Site settings
 title: ТУРЫ В АФРИКУ
